@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16a01b12-e158-4d53-b859-9cdce8f395bd" name="Default" comment="initial commit">
+    <list default="true" id="16a01b12-e158-4d53-b859-9cdce8f395bd" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="Pinball.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -176,7 +175,11 @@
       <created>1340913622884</created>
       <updated>1340913622884</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1340914403683</created>
+      <updated>1340914403683</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
