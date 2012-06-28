@@ -45,7 +45,7 @@ function populateLevel(chance,level) {
         $.each(row,function(x,entry) {
             if(entry != "") {
                 if((Math.random() < chance)) {
-                    Crafty.e("2D, Canvas, blob1, AI, Solid").attr({x:x*32, y:y*32, z:1}).moveChance(Math.random()*0.5);
+                    Crafty.e("2D, Canvas, blob1, AI, Solid, Enemy").attr({x:x*32, y:y*32, z:1}).moveChance(Math.random()*0.5);
                 }
             }
         });
